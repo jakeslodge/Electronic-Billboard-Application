@@ -1,0 +1,5 @@
+<billboard background = '#FFFFFF'>
+<message colour = '#000000'>this is soime really long text to add to the message of the billboard to test the features of createbillboard page</message>
+<picture url = 'https://cloudstor.aarnet.edu.au/plus/s/vYipYcT3VHa1uNt/download'/>
+
+</billboard>
